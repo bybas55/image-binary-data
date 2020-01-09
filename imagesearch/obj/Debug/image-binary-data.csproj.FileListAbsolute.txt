@@ -1,0 +1,10 @@
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\bin\Debug\imagesearch.exe.config
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\bin\Debug\imagesearch.exe
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\bin\Debug\imagesearch.pdb
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\obj\Debug\image-binary-data.csprojAssemblyReference.cache
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\obj\Debug\imagesearch.Form1.resources
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\obj\Debug\imagesearch.Properties.Resources.resources
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\obj\Debug\image-binary-data.csproj.GenerateResource.cache
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\obj\Debug\image-binary-data.csproj.CoreCompileInputs.cache
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\obj\Debug\imagesearch.exe
+C:\Users\bbas5\Documents\Visual Studio 2017\Projects\imagesearch\imagesearch\obj\Debug\imagesearch.pdb
